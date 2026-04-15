@@ -13,4 +13,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3701-compute-alternating-sum](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3701-compute-alternating-sum/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3701-compute-alternating-sum](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3701-compute-alternating-sum/) | Easy |
 <!---LeetCode Topics End-->
