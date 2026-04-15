@@ -12,13 +12,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3701-compute-alternating-sum](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3701-compute-alternating-sum/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3467-transform-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
