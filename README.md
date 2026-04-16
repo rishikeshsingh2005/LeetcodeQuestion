@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0009-palindrome-number/) | Easy |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3516-find-closest-person](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sorting
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Simulation
