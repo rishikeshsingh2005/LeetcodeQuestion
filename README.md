@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0001-two-sum/) | Easy |
+| [0054-spiral-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0054-spiral-matrix/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1929-concatenation-of-array/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0054-spiral-matrix/) | Medium |
 | [1929-concatenation-of-array](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1929-concatenation-of-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Counting
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0054-spiral-matrix/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
