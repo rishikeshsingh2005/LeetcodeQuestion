@@ -50,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0054-spiral-matrix/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1672-richest-customer-wealth/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1108-defanging-an-ip-address/) | Easy |
 <!---LeetCode Topics End-->
