@@ -54,6 +54,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0344-reverse-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
