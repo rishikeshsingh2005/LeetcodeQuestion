@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0009-palindrome-number/) | Easy |
+| [2235-add-two-integers](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/2235-add-two-integers/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3516-find-closest-person](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3536-maximum-product-of-two-digits/) | Easy |
