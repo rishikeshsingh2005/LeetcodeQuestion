@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0561-array-partition/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Array
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0054-spiral-matrix/) | Medium |
+| [0561-array-partition](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0561-array-partition/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1929-concatenation-of-array/) | Easy |
@@ -64,4 +66,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0344-reverse-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0561-array-partition/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0561-array-partition](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0561-array-partition/) | Easy |
 <!---LeetCode Topics End-->
