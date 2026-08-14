@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0136-single-number/) | Easy |
 | [0561-array-partition](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0561-array-partition/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1929-concatenation-of-array](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1929-concatenation-of-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -79,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0136-single-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
