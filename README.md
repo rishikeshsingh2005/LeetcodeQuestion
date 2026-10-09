@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -111,10 +113,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
