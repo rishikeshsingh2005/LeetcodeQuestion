@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0009-palindrome-number/) | Easy |
+| [0066-plus-one](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0066-plus-one/) | Easy |
 | [2235-add-two-integers](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/2235-add-two-integers/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3516-find-closest-person](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/3516-find-closest-person/) | Easy |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0136-single-number/) | Easy |
 | [0561-array-partition](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/0561-array-partition/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishikeshsingh2005/LeetcodeQuestion/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
